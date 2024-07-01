@@ -168,7 +168,7 @@ docker compose up --build -d
 ![image](https://github.com/Mozgiii9/Zora/assets/74683169/397ddef3-29a5-444e-9134-f73293f21f59)
 
 
-** Wait for the containers to be prepared **
+**Wait for the containers to be prepared**
 
 **16. You can check the logs with the command:**
 
@@ -180,4 +180,4 @@ docker logs -f node-op-node-1
 
 ![image](https://github.com/Mozgiii9/Zora/assets/74683169/26e5895b-b35e-416f-baf3-58015dccc94c)
 
-** Your Alchemy profile will display the node's uptime information**
+**Your Alchemy profile will display the node's uptime information**
